@@ -1,0 +1,2 @@
+
+((:TITLE "new" :ARTIST "artist" :RATING 0 :RIPPED T) (:TITLE "test3" :ARTIST "new artist" :RATING 50 :RIPPED NIL) (:TITLE "test2" :ARTIST "test" :RATING 0 :RIPPED NIL) (:TITLE "test1" :ARTIST "test" :RATING 100 :RIPPED T)) 
